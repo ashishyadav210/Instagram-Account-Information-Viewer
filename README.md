@@ -31,12 +31,12 @@ Follow the steps below to set up and run this tool on your local machine.
 1.  **Clone the Repository:**
     (First, you need to upload your project to a GitHub repository)
     ```
-    git clone <YOUR_REPO_LINK_HERE>
+    git clone https://github.com/ashishyadav210/Instagram-Account-Information-Viewer.git
     ```
 
 2.  **Navigate to the Project Directory:**
     ```
-    cd <YOUR_PROJECT_FOLDER_NAME>
+    cd Instagram-Account-Information-Viewer
     ```
 
 3.  **Install Required Libraries:**
@@ -48,3 +48,17 @@ Follow the steps below to set up and run this tool on your local machine.
 ## 👨‍💻 Usage
 
 Using the tool is very simple. Open your terminal or command prompt and run the following command:
+
+```python insta.py```
+
+Send Account Username & Got Account Information ℹ️ 
+
+## 📊 Example Output
+
+After running the command, you will get an output similar to this:
+
+![Screenshot](https://ibb.co/sJWttkQP)
+
+## 📄 License
+
+This project is licensed under the MIT License.
