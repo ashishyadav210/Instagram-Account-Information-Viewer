@@ -8,8 +8,8 @@ A simple command-line tool built with Python to fetch basic public information o
 
 ## ✨ Features
 
--   **User Profile Data**: Fetches the username, full name, and biography.
--   **Account Statistics**: Retrieves the number of followers, following, and total posts.
+-   **User Profile Data**: Fetches the username, email, mobile number, device information, address and some account public information.
+-   **Account Statistics**: Retrieves the number of followers, following, bio and total posts.
 -   **Profile Details**: Provides the profile picture URL and any external URL mentioned in the bio.
 -   **Account Status**: Indicates whether the account is private or public.
 -   **Easy to Use**: Simple and straightforward command-line interface.
@@ -57,7 +57,7 @@ Send Account Username & Got Account Information ℹ️
 
 After running the command, you will get an output similar to this:
 
-![Screenshot](https://ibb.co/sJWttkQP)
+![Tool Screenshot](https://i.ibb.co/ZJv2wV9/image.png)
 
 ## 📄 License
 
