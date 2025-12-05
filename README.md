@@ -57,7 +57,7 @@ Send Account Username & Got Account Information ℹ️
 
 After running the command, you will get an output similar to this:
 
-![Tool Screenshot](https://i.ibb.co/ZJv2wV9/image.png)
+• Screenshot: https://ibb.co/sJWttkQP
 
 ## 📄 License
 
